@@ -9,3 +9,11 @@ h1 {
 #smaller {
     font-size: 75%;
 }
+
+#image {
+    border: 5px solid black;
+
+    padding: 2px;
+
+    margin: 3px;
+}
